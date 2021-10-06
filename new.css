@@ -71,14 +71,14 @@
     max-width:100%;
     margin-bottom: .75em;
   }
-  @media only screen and (max-width: 470px) {
+  @media only screen and (max-width: 500px) {
     .masonry {
         -moz-column-count: 1;
         column-count: 1;
     }
 }
 
-@media only screen and (min-width: 470px) and (max-width: 768px){
+@media only screen and (min-width: 500px) and (max-width: 768px){
     .masonry {
         -moz-column-count: 2;
         column-count: 2;
